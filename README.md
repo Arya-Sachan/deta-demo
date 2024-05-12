@@ -1,2 +1,2 @@
 # deta-demo
-This is demo for Git and Github.
+This is demo for Git and Github class.
